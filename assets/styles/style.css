@@ -81,6 +81,10 @@ footer img {
     width: 270px;
   }
 
+  header {
+    margin-top: 55px;
+  }
+
   .content .first-links{
     flex-direction: column;
     width: auto;
